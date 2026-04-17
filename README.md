@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 # 💫 About Me:
 
 🔭 I’m currently working on Full Stack projects and exploring AI-based applications <br><br>👯 I’m looking to collaborate on Web Development and AI projects<br><br>🤝 I’m looking for help with Advanced AI concepts and system design <br><br>🌱 I’m currently learning Gen AI, Agentic AI, and scalable backend systems\*\* <br><br>💬 Ask me about React, Next.js, Node.js, Python, and MongoDB<br><br>
