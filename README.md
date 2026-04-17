@@ -1,7 +1,15 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 # 💫 About Me:
 
-🔭 I’m currently working on Full Stack projects and exploring AI-based applications <br><br>👯 I’m looking to collaborate on Web Development and AI projects<br><br>🤝 I’m looking for help with Advanced AI concepts and system design <br><br>🌱 I’m currently learning Gen AI, Agentic AI, and scalable backend systems\*\* <br><br>💬 Ask me about React, Next.js, Node.js, Python, and MongoDB<br><br>
+<img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
+
+🔭 I’m currently working on Full Stack projects  
+
+🌱 I’m currently learning Gen AI and Agentic AI 
+
+💬 Ask me about React, Next.js, Node.js, Python
+
+
 
 ## 🌐 Socials:
 
@@ -24,5 +32,3 @@
 ---
 
 [![](https://komarev.com/ghpvc/?username=Ashish7kumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
