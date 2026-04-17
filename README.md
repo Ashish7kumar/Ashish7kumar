@@ -7,7 +7,13 @@
 
 🌱 I’m currently learning Gen AI and Agentic AI 
 
-💬 Ask me about React, Next.js, Node.js, Python
+💬 Ask me about React, Next.js, Node.js, Python 
+
+🌍 Looking to work with passionate developers
+
+📚 Exploring system design and scalable architectures
+
+🎮 Sometimes coding, sometimes questioning life
 
 
 
