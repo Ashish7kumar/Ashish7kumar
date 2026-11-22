@@ -3,15 +3,17 @@
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
 
-🔭 I’m currently working on Full Stack projects  
+📊 I'm currently working as Data Engineer
+
+🔭 I have worked on Full Stack projects  
 
 🌱 I’m currently learning Gen AI and Agentic AI 
 
-💬 Ask me about React, Next.js, Node.js, Python 
+💬 Ask me about React, Spaek, Node.js, Python 
 
 🌍 Looking to work with passionate developers
 
-📚 Exploring system design and scalable architectures
+📚 Exploring system design,Big Data Systems and scalable architectures
 
 🎮 Sometimes coding, sometimes questioning life
 
